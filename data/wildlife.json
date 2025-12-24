@@ -3,8 +3,7 @@
     "id": 1,
     "name": "Harris",
     "species": "Hedgehog",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Erinaceus_europaeus_LC0199.jpg"
-,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Erinaceus_europaeus_LC0199.jpg",
     "story": "Rescued from roadside injury and currently recovering.",
     "sponsorFrom": "£3 / month"
   },
@@ -12,7 +11,7 @@
     "id": 2,
     "name": "Willow",
     "species": "Barn Owl",
-    "image": "https://commons.wikimedia.org/wiki/File:Tyto_alba_-British_Wildlife_Centre,_Surrey,_England-8a_(1)_white_background.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tyto_alba_-British_Wildlife_Centre%2C_Surrey%2C_England-8a.jpg",
     "story": "Found dehydrated during heatwave. Undergoing rehabilitation.",
     "sponsorFrom": "£5 / month"
   }
